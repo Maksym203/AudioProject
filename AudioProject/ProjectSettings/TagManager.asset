@@ -8,6 +8,8 @@ TagManager:
   - Water
   - Grass
   - Ground
+  - Cave
+  - Tension
   layers:
   - Default
   - TransparentFX
